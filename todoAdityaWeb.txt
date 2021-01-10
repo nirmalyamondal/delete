@@ -1,0 +1,13 @@
+1. http://www.t9lts.local/index.php?id=19&tx_management_ticket%5Baction%5D=list&tx_management_ticket%5Bcontroller%5D=Ticket
+Action input hidden, new window edit/ detail.
+Hide passcode - show  task id.
+
+2. http://www.t9lts.local/index.php?id=19&tx_management_ticket%5Baction%5D=new&tx_management_ticket%5Bcontroller%5D=Ticket
+Seperate Customer/ Technician DB.
+Address field ?
+
+Technician add -Select- in BE.
+3. http://www.t9lts.local/index.php?id=19&tx_management_ticket%5Bticket%5D=1&tx_management_ticket%5Baction%5D=edit&tx_management_ticket%5Bcontroller%5D=Ticket&cHash=700b2e81186e2418c2bdfd5104d5fee5
+
+Address field ?
+--------------------------------
